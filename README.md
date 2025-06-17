@@ -183,17 +183,6 @@ You can test your endpoints manually using [Postman](https://www.postman.com/).
   "photo_url": "https://example.com/image.jpg"
 }
 ```
-
----
-
-## 📸 Screenshots
-
-*(Add your actual UI screenshots here)*  
-```
-/screenshots/product-cards.png
-/screenshots/review-form.png
-```
-
 ---
 
 ## 🌐 Future Improvements
