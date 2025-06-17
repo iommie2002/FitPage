@@ -155,7 +155,6 @@ The frontend will run on:
 |--------|---------------------------|-------------------------------------|
 | GET    | `/products`               | Get list of all products            |
 | GET    | `/reviews/:productId`     | Get reviews for a specific product  |
-| GET    | `/all-reviews`            | Get all reviews                     |
 | POST   | `/review`                 | Submit a new review                 |
 
 ---
